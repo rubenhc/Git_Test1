@@ -21,5 +21,10 @@ namespace Git_Test1
         {
             label1.Text = "Hola mundo";
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label2.Text = "Whats going on?";
+        }
     }
 }
